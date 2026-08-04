@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Arpit Mishra
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Web Developer || Front-End  || *AI WEB DEVELOPMENT ENGINEER*
 
 Email Me 👉 ✉️ **Rewaarpit11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **Rewaarpit11@gmail.com** For Collaboration/Project or Anyt
 - 😄 **Pronouns:** Arpit Mishra
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/11_arpitmishra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arpit-mishra-839665301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rewaarpit11@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/11_arpitmishra) [![LinkedIn](www.linkedin.com/in/arpit-mishra-839665301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rewaarpit11@gmail.com) 
 
 <!-- Snake Game Repo View -->
 

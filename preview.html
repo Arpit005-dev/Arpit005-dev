@@ -1,0 +1,1155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Matrix-inspired developer profile for Arpit Mishra" />
+  <meta name="theme-color" content="#020704" />
+  <title>Arpit Mishra — Matrix Developer Profile</title>
+
+  <style>
+    :root {
+      --bg: #010503;
+      --bg-soft: #041009;
+      --panel: rgba(4, 18, 10, 0.72);
+      --panel-strong: rgba(4, 23, 12, 0.92);
+      --green: #00ff66;
+      --green-soft: #78ffad;
+      --green-dim: #17b95b;
+      --cyan: #37ffd0;
+      --text: #e9fff0;
+      --muted: #85aa91;
+      --border: rgba(0, 255, 102, 0.18);
+      --border-strong: rgba(0, 255, 102, 0.42);
+      --shadow: 0 0 40px rgba(0, 255, 102, 0.08);
+      --radius: 22px;
+      --mono: "JetBrains Mono", "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+      --sans: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      min-height: 100vh;
+      overflow-x: hidden;
+      background:
+        radial-gradient(circle at 12% 7%, rgba(0, 255, 102, 0.09), transparent 25%),
+        radial-gradient(circle at 88% 18%, rgba(55, 255, 208, 0.07), transparent 22%),
+        linear-gradient(180deg, #010503 0%, #020b06 48%, #010503 100%);
+      color: var(--text);
+      font-family: var(--sans);
+      line-height: 1.6;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: -3;
+      pointer-events: none;
+      background-image:
+        linear-gradient(rgba(0, 255, 102, 0.025) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 255, 102, 0.025) 1px, transparent 1px);
+      background-size: 32px 32px;
+      mask-image: linear-gradient(to bottom, black, transparent 88%);
+    }
+
+    #matrix {
+      position: fixed;
+      inset: 0;
+      z-index: -4;
+      width: 100%;
+      height: 100%;
+      opacity: 0.16;
+      pointer-events: none;
+    }
+
+    ::selection {
+      background: var(--green);
+      color: #001807;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button,
+    a {
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .scanline {
+      position: fixed;
+      inset: -20% 0 auto;
+      height: 160px;
+      z-index: 50;
+      pointer-events: none;
+      opacity: 0.13;
+      background: linear-gradient(to bottom, transparent, rgba(0, 255, 102, 0.24), transparent);
+      animation: scan 8s linear infinite;
+    }
+
+    .shell {
+      width: min(1180px, calc(100% - 30px));
+      margin: 0 auto;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 12px;
+      z-index: 40;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      margin-top: 14px;
+      padding: 12px 14px;
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: rgba(1, 9, 5, 0.76);
+      backdrop-filter: blur(18px);
+      box-shadow: 0 12px 50px rgba(0, 0, 0, 0.35);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 11px;
+      font-family: var(--mono);
+      font-size: 0.9rem;
+      font-weight: 800;
+      color: var(--green-soft);
+    }
+
+    .brand-mark {
+      display: grid;
+      place-items: center;
+      width: 36px;
+      height: 36px;
+      border: 1px solid var(--border-strong);
+      border-radius: 10px;
+      background: rgba(0, 255, 102, 0.08);
+      box-shadow: inset 0 0 20px rgba(0, 255, 102, 0.05);
+      color: var(--green);
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .nav a {
+      padding: 8px 10px;
+      border-radius: 10px;
+      color: #8ab495;
+      font-family: var(--mono);
+      font-size: 0.75rem;
+      font-weight: 700;
+      transition: 0.2s ease;
+    }
+
+    .nav a:hover {
+      color: var(--green-soft);
+      background: rgba(0, 255, 102, 0.08);
+    }
+
+    .status-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 7px 10px;
+      color: var(--green-soft);
+      background: rgba(0, 255, 102, 0.055);
+      font-family: var(--mono);
+      font-size: 0.7rem;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 13px var(--green);
+      animation: pulse 1.5s ease-in-out infinite;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      align-items: center;
+      gap: 42px;
+      min-height: calc(100vh - 80px);
+      padding: 80px 0 65px;
+    }
+
+    .kicker {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 19px;
+      color: var(--green-soft);
+      font-family: var(--mono);
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .kicker::before {
+      content: "";
+      width: 28px;
+      height: 1px;
+      background: var(--green);
+      box-shadow: 0 0 10px var(--green);
+    }
+
+    h1 {
+      max-width: 760px;
+      font-size: clamp(3rem, 8vw, 7rem);
+      line-height: 0.88;
+      letter-spacing: -0.07em;
+      text-transform: uppercase;
+    }
+
+    .name-line {
+      display: block;
+      color: white;
+      text-shadow: 0 0 26px rgba(255, 255, 255, 0.06);
+    }
+
+    .glitch-line {
+      position: relative;
+      display: inline-block;
+      color: var(--green);
+      text-shadow:
+        0 0 24px rgba(0, 255, 102, 0.28),
+        2px 0 rgba(55, 255, 208, 0.35),
+        -2px 0 rgba(0, 255, 102, 0.22);
+      animation: glitch 4s infinite;
+    }
+
+    .hero-sub {
+      max-width: 650px;
+      margin-top: 24px;
+      color: #9ab4a1;
+      font-size: clamp(0.98rem, 2vw, 1.08rem);
+    }
+
+    .typed-wrap {
+      min-height: 30px;
+      margin-top: 22px;
+      color: var(--cyan);
+      font-family: var(--mono);
+      font-size: 0.9rem;
+      font-weight: 700;
+    }
+
+    .cursor {
+      display: inline-block;
+      width: 8px;
+      height: 1.05em;
+      margin-left: 4px;
+      vertical-align: -0.12em;
+      background: currentColor;
+      animation: blink 0.8s step-end infinite;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 31px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 9px;
+      min-height: 46px;
+      padding: 0 17px;
+      border: 1px solid var(--border-strong);
+      border-radius: 12px;
+      font-family: var(--mono);
+      font-size: 0.78rem;
+      font-weight: 900;
+      letter-spacing: 0.02em;
+      transition: 0.22s ease;
+    }
+
+    .button.primary {
+      color: #001807;
+      background: var(--green);
+      box-shadow: 0 0 26px rgba(0, 255, 102, 0.18);
+    }
+
+    .button.secondary {
+      color: var(--green-soft);
+      background: rgba(0, 255, 102, 0.06);
+    }
+
+    .button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 0 34px rgba(0, 255, 102, 0.2);
+    }
+
+    .hero-terminal {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--border-strong);
+      border-radius: 24px;
+      background:
+        linear-gradient(180deg, rgba(0, 255, 102, 0.04), transparent 28%),
+        rgba(1, 11, 6, 0.9);
+      box-shadow:
+        0 28px 90px rgba(0, 0, 0, 0.44),
+        inset 0 0 40px rgba(0, 255, 102, 0.025);
+      transform: perspective(1100px) rotateY(-4deg) rotateX(2deg);
+      animation: float 5s ease-in-out infinite;
+    }
+
+    .terminal-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 13px 15px;
+      border-bottom: 1px solid var(--border);
+      background: rgba(0, 255, 102, 0.035);
+    }
+
+    .window-dots {
+      display: flex;
+      gap: 7px;
+    }
+
+    .window-dots span {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: #14532d;
+    }
+
+    .window-dots span:first-child { background: #16a34a; }
+    .window-dots span:nth-child(2) { background: #22c55e; }
+    .window-dots span:nth-child(3) { background: #4ade80; }
+
+    .terminal-label {
+      color: #6f9c7a;
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      font-weight: 700;
+    }
+
+    .terminal-body {
+      min-height: 390px;
+      padding: 23px;
+      font-family: var(--mono);
+      font-size: 0.78rem;
+      line-height: 1.85;
+    }
+
+    .terminal-body .prompt { color: var(--green); }
+    .terminal-body .key { color: #67e8f9; }
+    .terminal-body .string { color: #d9f99d; }
+    .terminal-body .comment { color: #557a60; }
+    .terminal-body .value { color: #e9fff0; }
+
+    .terminal-line {
+      opacity: 0;
+      transform: translateY(6px);
+      animation: reveal 0.55s forwards;
+    }
+
+    .terminal-line:nth-child(2) { animation-delay: 0.35s; }
+    .terminal-line:nth-child(3) { animation-delay: 0.7s; }
+    .terminal-line:nth-child(4) { animation-delay: 1.05s; }
+    .terminal-line:nth-child(5) { animation-delay: 1.4s; }
+    .terminal-line:nth-child(6) { animation-delay: 1.75s; }
+    .terminal-line:nth-child(7) { animation-delay: 2.1s; }
+    .terminal-line:nth-child(8) { animation-delay: 2.45s; }
+    .terminal-line:nth-child(9) { animation-delay: 2.8s; }
+    .terminal-line:nth-child(10) { animation-delay: 3.15s; }
+
+    .section {
+      padding: 92px 0;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 24px;
+      margin-bottom: 30px;
+    }
+
+    .section-label {
+      color: var(--green);
+      font-family: var(--mono);
+      font-size: 0.75rem;
+      font-weight: 900;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .section-title {
+      margin-top: 6px;
+      font-size: clamp(2rem, 4.5vw, 4rem);
+      line-height: 1;
+      letter-spacing: -0.05em;
+    }
+
+    .section-note {
+      max-width: 420px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .dashboard {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 20px;
+    }
+
+    .panel {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: linear-gradient(145deg, rgba(4, 24, 12, 0.78), rgba(2, 12, 7, 0.72));
+      box-shadow: var(--shadow);
+    }
+
+    .panel::after {
+      content: "";
+      position: absolute;
+      inset: auto -20% -65% 35%;
+      height: 230px;
+      border-radius: 50%;
+      background: rgba(0, 255, 102, 0.07);
+      filter: blur(55px);
+      pointer-events: none;
+    }
+
+    .panel-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 15px 18px;
+      border-bottom: 1px solid var(--border);
+      color: #8eb79a;
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      font-weight: 800;
+    }
+
+    .panel-body {
+      padding: 25px;
+    }
+
+    .about-copy {
+      color: #b4cbb9;
+      font-size: 0.98rem;
+    }
+
+    .about-copy strong {
+      color: var(--green-soft);
+    }
+
+    .facts {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 11px;
+      margin-top: 22px;
+    }
+
+    .fact {
+      padding: 15px;
+      border: 1px solid rgba(0, 255, 102, 0.11);
+      border-radius: 14px;
+      background: rgba(0, 255, 102, 0.035);
+    }
+
+    .fact span {
+      display: block;
+      color: #61806a;
+      font-family: var(--mono);
+      font-size: 0.67rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.09em;
+    }
+
+    .fact strong {
+      display: block;
+      margin-top: 5px;
+      font-size: 0.84rem;
+    }
+
+    .progress-list {
+      display: grid;
+      gap: 17px;
+    }
+
+    .progress-row {
+      display: grid;
+      gap: 8px;
+    }
+
+    .progress-info {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      font-weight: 800;
+    }
+
+    .progress-info span:last-child {
+      color: var(--green-soft);
+    }
+
+    .progress-track {
+      height: 7px;
+      overflow: hidden;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.055);
+    }
+
+    .progress-fill {
+      height: 100%;
+      border-radius: inherit;
+      background: linear-gradient(90deg, var(--green-dim), var(--green), var(--cyan));
+      box-shadow: 0 0 15px rgba(0, 255, 102, 0.28);
+      transform-origin: left;
+      animation: load 1.6s ease both;
+    }
+
+    .skill-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .skill-card {
+      min-height: 155px;
+      padding: 19px;
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: rgba(3, 19, 10, 0.7);
+      transition: 0.22s ease;
+    }
+
+    .skill-card:hover {
+      transform: translateY(-5px);
+      border-color: var(--border-strong);
+      box-shadow: 0 0 32px rgba(0, 255, 102, 0.1);
+    }
+
+    .skill-icon {
+      display: grid;
+      place-items: center;
+      width: 40px;
+      height: 40px;
+      border: 1px solid var(--border-strong);
+      border-radius: 12px;
+      color: var(--green);
+      background: rgba(0, 255, 102, 0.06);
+      font-family: var(--mono);
+      font-weight: 900;
+    }
+
+    .skill-card h3 {
+      margin-top: 17px;
+      font-size: 0.95rem;
+    }
+
+    .skill-card p {
+      margin-top: 5px;
+      color: #75927e;
+      font-size: 0.78rem;
+    }
+
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .project {
+      min-height: 285px;
+      padding: 22px;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      background:
+        linear-gradient(180deg, rgba(0, 255, 102, 0.05), transparent 35%),
+        rgba(3, 18, 9, 0.78);
+      transition: 0.22s ease;
+    }
+
+    .project:hover {
+      transform: translateY(-6px);
+      border-color: var(--border-strong);
+      box-shadow: 0 0 36px rgba(0, 255, 102, 0.09);
+    }
+
+    .project-index {
+      color: var(--green);
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      font-weight: 900;
+    }
+
+    .project h3 {
+      margin-top: 35px;
+      font-size: 1.2rem;
+    }
+
+    .project p {
+      margin-top: 9px;
+      color: #7d9985;
+      font-size: 0.86rem;
+    }
+
+    .project-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      margin-top: 23px;
+    }
+
+    .project-tags span {
+      padding: 6px 8px;
+      border: 1px solid rgba(0, 255, 102, 0.12);
+      border-radius: 999px;
+      color: #91b49a;
+      background: rgba(0, 255, 102, 0.035);
+      font-family: var(--mono);
+      font-size: 0.64rem;
+      font-weight: 800;
+    }
+
+    .github-board {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .metric {
+      padding: 23px;
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: rgba(3, 18, 9, 0.75);
+    }
+
+    .metric strong {
+      display: block;
+      color: var(--green);
+      font-family: var(--mono);
+      font-size: clamp(1.75rem, 4vw, 2.8rem);
+      line-height: 1;
+    }
+
+    .metric span {
+      display: block;
+      margin-top: 8px;
+      color: #6d8d76;
+      font-size: 0.8rem;
+    }
+
+    .quote {
+      position: relative;
+      padding: 55px 28px;
+      border: 1px solid var(--border);
+      border-radius: 26px;
+      background:
+        radial-gradient(circle at 50% 120%, rgba(0, 255, 102, 0.11), transparent 38%),
+        rgba(3, 17, 9, 0.72);
+      text-align: center;
+    }
+
+    .quote code {
+      color: var(--green);
+      font-family: var(--mono);
+      font-size: clamp(1rem, 2.8vw, 1.55rem);
+      font-weight: 800;
+    }
+
+    .quote p {
+      max-width: 760px;
+      margin: 17px auto 0;
+      color: #86a58e;
+      font-size: 0.9rem;
+    }
+
+    footer {
+      padding: 42px 0 55px;
+      color: #56705e;
+      text-align: center;
+      font-family: var(--mono);
+      font-size: 0.7rem;
+    }
+
+    @keyframes scan {
+      to { transform: translateY(140vh); }
+    }
+
+    @keyframes pulse {
+      50% { opacity: 0.38; transform: scale(0.7); }
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+
+    @keyframes glitch {
+      0%, 88%, 100% { transform: translate(0); }
+      90% { transform: translate(2px, -1px); }
+      92% { transform: translate(-2px, 1px); }
+      94% { transform: translate(1px, 1px); }
+    }
+
+    @keyframes float {
+      50% { transform: perspective(1100px) rotateY(-2deg) rotateX(1deg) translateY(-8px); }
+    }
+
+    @keyframes reveal {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes load {
+      from { transform: scaleX(0); }
+      to { transform: scaleX(1); }
+    }
+
+    @media (max-width: 960px) {
+      .hero,
+      .dashboard {
+        grid-template-columns: 1fr;
+      }
+
+      .hero {
+        padding-top: 70px;
+      }
+
+      .hero-terminal {
+        transform: none;
+        animation: none;
+      }
+
+      .skill-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .projects {
+        grid-template-columns: 1fr;
+      }
+
+      .github-board {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
+    @media (max-width: 690px) {
+      .topbar {
+        padding: 10px;
+      }
+
+      .nav {
+        display: none;
+      }
+
+      .hero {
+        min-height: auto;
+        padding: 72px 0 56px;
+      }
+
+      h1 {
+        font-size: clamp(3.1rem, 18vw, 5rem);
+      }
+
+      .section {
+        padding: 70px 0;
+      }
+
+      .section-head {
+        align-items: start;
+        flex-direction: column;
+      }
+
+      .skill-grid,
+      .github-board,
+      .facts {
+        grid-template-columns: 1fr;
+      }
+
+      .terminal-body {
+        min-height: auto;
+        padding: 18px;
+        font-size: 0.7rem;
+        overflow-x: auto;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *,
+      *::before,
+      *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+      }
+
+      #matrix,
+      .scanline {
+        display: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <canvas id="matrix" aria-hidden="true"></canvas>
+  <div class="scanline" aria-hidden="true"></div>
+
+  <header class="topbar shell">
+    <a class="brand" href="#home" aria-label="Go to home">
+      <span class="brand-mark">&gt;_</span>
+      <span>arpit@github</span>
+    </a>
+
+    <nav class="nav" aria-label="Primary navigation">
+      <a href="#about">./about</a>
+      <a href="#stack">./stack</a>
+      <a href="#projects">./projects</a>
+      <a href="#activity">./activity</a>
+    </nav>
+
+    <span class="status-pill">
+      <span class="status-dot"></span>
+      SYSTEM ONLINE
+    </span>
+  </header>
+
+  <main>
+    <section class="hero shell" id="home">
+      <div>
+        <div class="kicker">Welcome to the source</div>
+
+        <h1>
+          <span class="name-line">Arpit</span>
+          <span class="glitch-line">Mishra</span>
+        </h1>
+
+        <p class="hero-sub">
+          Frontend Web Developer and B.Tech Computer Science student building responsive interfaces,
+          browser-based experiences and practical digital products.
+        </p>
+
+        <div class="typed-wrap">
+          <span id="typed"></span><span class="cursor"></span>
+        </div>
+
+        <div class="hero-actions">
+          <a class="button primary" href="https://github.com/Arpit005-dev" target="_blank" rel="noreferrer">
+            OPEN GITHUB ↗
+          </a>
+          <a class="button secondary" href="#projects">
+            VIEW PROJECTS ↓
+          </a>
+        </div>
+      </div>
+
+      <aside class="hero-terminal" aria-label="Developer profile terminal">
+        <div class="terminal-head">
+          <div class="window-dots" aria-hidden="true"><span></span><span></span><span></span></div>
+          <span class="terminal-label">developer-profile.js</span>
+        </div>
+
+        <div class="terminal-body">
+          <div class="terminal-line"><span class="comment">// identity module</span></div>
+          <div class="terminal-line"><span class="key">const</span> <span class="value">developer</span> = {</div>
+          <div class="terminal-line">&nbsp;&nbsp;<span class="key">name</span>: <span class="string">"Arpit Mishra"</span>,</div>
+          <div class="terminal-line">&nbsp;&nbsp;<span class="key">role</span>: <span class="string">"Frontend Web Developer"</span>,</div>
+          <div class="terminal-line">&nbsp;&nbsp;<span class="key">education</span>: <span class="string">"B.Tech CSE"</span>,</div>
+          <div class="terminal-line">&nbsp;&nbsp;<span class="key">location</span>: <span class="string">"Madhya Pradesh, India"</span>,</div>
+          <div class="terminal-line">&nbsp;&nbsp;<span class="key">focus</span>: [<span class="string">"JavaScript"</span>, <span class="string">"Java DSA"</span>],</div>
+          <div class="terminal-line">&nbsp;&nbsp;<span class="key">mindset</span>: <span class="string">"Build. Learn. Improve."</span></div>
+          <div class="terminal-line">};</div>
+          <div class="terminal-line"><br><span class="prompt">$</span> npm run future<span class="cursor"></span></div>
+        </div>
+      </aside>
+    </section>
+
+    <section class="section shell" id="about">
+      <div class="section-head">
+        <div>
+          <div class="section-label">01 // Identity</div>
+          <h2 class="section-title">Developer dashboard</h2>
+        </div>
+        <p class="section-note">
+          A clean technical overview of what I build, what I am learning and where I am heading.
+        </p>
+      </div>
+
+      <div class="dashboard">
+        <article class="panel">
+          <div class="panel-head"><span>about_me.md</span><span>READ ONLY</span></div>
+          <div class="panel-body">
+            <p class="about-copy">
+              I create <strong>responsive, interactive and visually refined websites</strong> using
+              frontend technologies. I enjoy combining clean UI, logical problem-solving and modern
+              development tools to turn ideas into functional products.
+            </p>
+
+            <div class="facts">
+              <div class="fact"><span>Location</span><strong>Madhya Pradesh, India</strong></div>
+              <div class="fact"><span>Education</span><strong>B.Tech Computer Science</strong></div>
+              <div class="fact"><span>Primary Role</span><strong>Frontend Developer</strong></div>
+              <div class="fact"><span>Current Mode</span><strong>Learning and Building</strong></div>
+            </div>
+          </div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head"><span>skill_progress.log</span><span>LIVE</span></div>
+          <div class="panel-body progress-list">
+            <div class="progress-row">
+              <div class="progress-info"><span>HTML / CSS</span><span>92%</span></div>
+              <div class="progress-track"><div class="progress-fill" style="width:92%"></div></div>
+            </div>
+            <div class="progress-row">
+              <div class="progress-info"><span>JavaScript</span><span>78%</span></div>
+              <div class="progress-track"><div class="progress-fill" style="width:78%"></div></div>
+            </div>
+            <div class="progress-row">
+              <div class="progress-info"><span>Git / GitHub</span><span>74%</span></div>
+              <div class="progress-track"><div class="progress-fill" style="width:74%"></div></div>
+            </div>
+            <div class="progress-row">
+              <div class="progress-info"><span>Java DSA</span><span>61%</span></div>
+              <div class="progress-track"><div class="progress-fill" style="width:61%"></div></div>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section shell" id="stack">
+      <div class="section-head">
+        <div>
+          <div class="section-label">02 // Toolchain</div>
+          <h2 class="section-title">Technology stack</h2>
+        </div>
+        <p class="section-note">
+          Core tools and platforms currently used across my learning path and project work.
+        </p>
+      </div>
+
+      <div class="skill-grid">
+        <article class="skill-card">
+          <div class="skill-icon">&lt;/&gt;</div>
+          <h3>HTML5</h3>
+          <p>Semantic structure, accessibility and clean page architecture.</p>
+        </article>
+        <article class="skill-card">
+          <div class="skill-icon">#</div>
+          <h3>CSS3</h3>
+          <p>Responsive layouts, animation systems and modern visual interfaces.</p>
+        </article>
+        <article class="skill-card">
+          <div class="skill-icon">JS</div>
+          <h3>JavaScript</h3>
+          <p>DOM interactions, browser logic and dynamic user experiences.</p>
+        </article>
+        <article class="skill-card">
+          <div class="skill-icon">J</div>
+          <h3>Java + DSA</h3>
+          <p>Problem-solving, algorithmic thinking and programming fundamentals.</p>
+        </article>
+        <article class="skill-card">
+          <div class="skill-icon">G</div>
+          <h3>Git & GitHub</h3>
+          <p>Version control, collaboration and public project documentation.</p>
+        </article>
+        <article class="skill-card">
+          <div class="skill-icon">WP</div>
+          <h3>WordPress</h3>
+          <p>Website customization, publishing workflows and content management.</p>
+        </article>
+        <article class="skill-card">
+          <div class="skill-icon">S</div>
+          <h3>Shopify</h3>
+          <p>Store configuration, product management and e-commerce layouts.</p>
+        </article>
+        <article class="skill-card">
+          <div class="skill-icon">AI</div>
+          <h3>AI Workflows</h3>
+          <p>Using AI tools to accelerate ideation, coding and design exploration.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section shell" id="projects">
+      <div class="section-head">
+        <div>
+          <div class="section-label">03 // Deployments</div>
+          <h2 class="section-title">Selected projects</h2>
+        </div>
+        <p class="section-note">
+          Projects designed to strengthen frontend development, practical creativity and browser-based problem-solving.
+        </p>
+      </div>
+
+      <div class="projects">
+        <article class="project">
+          <span class="project-index">PROJECT_01</span>
+          <h3>Live Speed Tester</h3>
+          <p>A Chrome extension concept for viewing ping, download and upload speed directly inside the browser.</p>
+          <div class="project-tags"><span>HTML</span><span>CSS</span><span>JavaScript</span><span>Extension</span></div>
+        </article>
+
+        <article class="project">
+          <span class="project-index">PROJECT_02</span>
+          <h3>One Pulse News</h3>
+          <p>A modern news interface focused on clean visual hierarchy, responsive cards and readable content presentation.</p>
+          <div class="project-tags"><span>Frontend</span><span>Responsive UI</span><span>JavaScript</span></div>
+        </article>
+
+        <article class="project">
+          <span class="project-index">PROJECT_03</span>
+          <h3>AI Website Projects</h3>
+          <p>Creative internship projects exploring AI-assisted website planning, interface generation and rapid deployment.</p>
+          <div class="project-tags"><span>AI Tools</span><span>GitHub Pages</span><span>UI/UX</span></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section shell" id="activity">
+      <div class="section-head">
+        <div>
+          <div class="section-label">04 // Activity</div>
+          <h2 class="section-title">GitHub signal</h2>
+        </div>
+        <p class="section-note">
+          Public development activity grows with every project, commit and experiment.
+        </p>
+      </div>
+
+      <div class="github-board">
+        <div class="metric"><strong>03+</strong><span>Featured repositories</span></div>
+        <div class="metric"><strong>∞</strong><span>Learning iterations</span></div>
+        <div class="metric"><strong>24/7</strong><span>Curiosity online</span></div>
+      </div>
+    </section>
+
+    <section class="section shell">
+      <div class="quote">
+        <code>while (alive) { learn(); build(); improve(); }</code>
+        <p>
+          I do not just write code. I build digital experiences where logic, creativity and usability work together.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="shell">
+    ARPIT_MISHRA // FRONTEND_DEVELOPER // MATRIX_INTERFACE_v1.0
+  </footer>
+
+  <script>
+    const phrases = [
+      "Frontend Web Developer",
+      "AI Web Development Intern",
+      "Learning DSA with Java",
+      "Building interactive experiences",
+      "Code. Create. Improve. Repeat."
+    ];
+
+    const typed = document.getElementById("typed");
+    let phraseIndex = 0;
+    let charIndex = 0;
+    let deleting = false;
+
+    function typeLoop() {
+      const current = phrases[phraseIndex];
+
+      if (!deleting) {
+        typed.textContent = current.slice(0, charIndex++);
+        if (charIndex > current.length) {
+          deleting = true;
+          setTimeout(typeLoop, 1100);
+          return;
+        }
+      } else {
+        typed.textContent = current.slice(0, charIndex--);
+        if (charIndex < 0) {
+          deleting = false;
+          phraseIndex = (phraseIndex + 1) % phrases.length;
+          charIndex = 0;
+        }
+      }
+
+      setTimeout(typeLoop, deleting ? 38 : 72);
+    }
+
+    typeLoop();
+
+    const canvas = document.getElementById("matrix");
+    const ctx = canvas.getContext("2d");
+    const chars = "01アイウエオカキクケコサシスセソABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    const fontSize = 14;
+    let columns = 0;
+    let drops = [];
+
+    function resizeMatrix() {
+      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+      canvas.width = Math.floor(window.innerWidth * dpr);
+      canvas.height = Math.floor(window.innerHeight * dpr);
+      canvas.style.width = window.innerWidth + "px";
+      canvas.style.height = window.innerHeight + "px";
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      columns = Math.floor(window.innerWidth / fontSize);
+      drops = Array.from({ length: columns }, () => Math.random() * -80);
+    }
+
+    function drawMatrix() {
+      ctx.fillStyle = "rgba(1, 5, 3, 0.075)";
+      ctx.fillRect(0, 0, window.innerWidth, window.innerHeight);
+      ctx.fillStyle = "#00ff66";
+      ctx.font = `${fontSize}px monospace`;
+
+      for (let i = 0; i < drops.length; i++) {
+        const text = chars[Math.floor(Math.random() * chars.length)];
+        ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+
+        if (drops[i] * fontSize > window.innerHeight && Math.random() > 0.975) {
+          drops[i] = 0;
+        }
+        drops[i]++;
+      }
+    }
+
+    resizeMatrix();
+    window.addEventListener("resize", resizeMatrix);
+
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (!reducedMotion) {
+      setInterval(drawMatrix, 48);
+    }
+  </script>
+</body>
+</html>

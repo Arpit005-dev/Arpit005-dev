@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:000000,100:003B00&text=ARPIT%20MISHRA&fontColor=00FF41&fontSize=45&fontAlignY=42&animation=fadeIn&desc=%3E%20Frontend%20Developer_%20&descAlignY=68&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Initializing+profile...;%3E+Frontend+Web+Developer;%3E+AI+Web+Development+Intern;%3E+Learning+DSA+with+Java;%3E+Code.+Create.+Innovate." alt="Animated typing text" />
+
 
 </div>
 

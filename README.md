@@ -6,10 +6,8 @@ Email Me 👉 ✉️ **Rewaarpit11@gmail.com** For Collaboration/Project or Anyt
 - 🔭 **I’m currently working on:** InAmigos Projects
 - 🌱 **I’m currently learning:** DSA with Java
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Rewaarpit11@gmail.com
 - 😄 **Pronouns:** Arpit Mishra
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-- 
+- ⚡ Fun fact: Code challenges me, and I love the challenge
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/11_arpitmishra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-839665301/)

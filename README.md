@@ -15,6 +15,11 @@ Email Me 👉 ✉️ **Rewaarpit11@gmail.com** For Collaboration/Project or Anyt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-839665301/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rewaarpit11@gmail.com)
 
+
+
+<table><thead><tr><th>Repository Performance Stats - Last 28 days</th><th>Active Contributors - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&amp;limit=100&amp;image_size=auto"></td></tr></tbody></table>
+
+
 <!-- Snake Game Repo View -->
 
 <div align="center">

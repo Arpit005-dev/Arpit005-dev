@@ -38,7 +38,3 @@ Email Me 👉 ✉️ **Rewaarpit11@gmail.com** For Collaboration/Project or Anyt
 ### 🔝 Top Contributed Repo
 ![](https://github.com/Arpit005-dev/Inamigos_Internship_Projects)
 
----
-[![](https://komarev.com/ghpvc/?username=Arpit005-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

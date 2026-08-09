@@ -4,8 +4,6 @@
 
 **Frontend Web Developer • AI Web Development Intern at InAmigos Foundation**
 
-I enjoy transforming ideas into responsive, interactive, and user-friendly web experiences.
-
 📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations, exciting projects, and tech conversations!
 
 * 🔭 Building impactful **InAmigos Foundation projects**

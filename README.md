@@ -7,7 +7,7 @@
 📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations, exciting projects, and tech conversations!
 
 * 🔭 Building impactful **InAmigos Foundation projects**
-* 🌱 Leveling up my **JavaScript and DSA with Java**
+* 🌱 Leveling up my ** DSA with Java**
 * 💻 Exploring **Frontend Development, UI/UX and Open Source**
 * 💬 Ask me about **Web Development, technology or collaboration**
 * 😄 Pronouns: **He/Him**

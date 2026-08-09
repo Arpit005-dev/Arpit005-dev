@@ -1,14 +1,20 @@
-# <Hello, World! /> I'm Arpit Mishra 👋
+# <Arpit.exe Has Entered the Codebase /> ⚡
 
-**A passionate Web Developer | Frontend Developer |  Intern at InAmigos Foundation**
+### Hey there! I’m Arpit Mishra 👋
 
-📧 **Email me:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) for collaborations, projects, or anything tech-related!
+**Frontend Web Developer • AI Web Development Intern at InAmigos Foundation**
 
-- 🔭 Currently working on **InAmigos Projects**
-- 🌱 Currently learning **DSA with Java**
-- 💬 Ask me about **Web Development, Tech, and Collaboration**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I enjoy taking on coding challenges and learning along the way.**
+I enjoy transforming ideas into responsive, interactive, and user-friendly web experiences.
+
+📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations, exciting projects, and tech conversations!
+
+* 🔭 Building impactful **InAmigos Foundation projects**
+* 🌱 Leveling up my **JavaScript and DSA with Java**
+* 💻 Exploring **Frontend Development, UI/UX and Open Source**
+* 💬 Ask me about **Web Development, technology or collaboration**
+* 😄 Pronouns: **He/Him**
+* ⚡ Fun fact: **I turn coding challenges into learning streaks—one commit at a time!**
+
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-839665301/)

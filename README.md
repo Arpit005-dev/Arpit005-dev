@@ -1,6 +1,6 @@
 # <Hello, World! /> I'm Arpit Mishra 👋
 
-**A passionate Web Developer | Frontend Developer | Web Development Intern at InAmigos Foundation**
+**A passionate Web Developer | Frontend Developer |  Intern at InAmigos Foundation**
 
 📧 **Email me:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) for collaborations, projects, or anything tech-related!
 

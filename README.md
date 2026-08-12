@@ -47,20 +47,26 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Arpit005-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Arpit005-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arpit005-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arpit005-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpit005-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+
+## 🔥 Daily GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arpit005-dev&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+<br/>
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit005-dev&theme=dark&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arpit005-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repositories
 
-
-
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Arpit005-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)

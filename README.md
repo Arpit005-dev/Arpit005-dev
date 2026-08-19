@@ -1,11 +1,9 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=INITIALIZING+ARPIT.EXE..."
-    alt="INITIALIZING ARPIT.EXE..."
+    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Initializing+ARPIT.exe...+%3A%3A+Deployment+READY+%F0%9F%96%A5%EF%B8%8F"
+    alt="Initializing ARPIT.exe... :: Deployment Ready 🖥️"
   />
 </p>
-
-
 
 
 ### Hey there! I’m Arpit Mishra 👋

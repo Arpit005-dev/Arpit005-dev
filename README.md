@@ -13,6 +13,9 @@
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: **I turn coding challenges into learning streaks—one commit at a time!**
 
+## ☕ Buy me a Coffee
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/arpit005)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-839665301/)

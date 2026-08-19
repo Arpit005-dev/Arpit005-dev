@@ -7,6 +7,7 @@
 📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations, exciting projects, and tech conversations!
 
 ---
+# 📌 About Me
 <table width="100%">
   <tr>
     <td width="100%" style="padding: 16px;">

@@ -81,6 +81,4 @@
 
 If you find my projects helpful or enjoy my contributions to open source, consider supporting me!
 
-[![PayPal](https://img.shields.io/badge/PayPal-Donate%20via%20PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](mailto:rewaarpit11@gmail.com)
-
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arpit005)

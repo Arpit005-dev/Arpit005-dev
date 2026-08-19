@@ -6,16 +6,14 @@
 
 📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations, exciting projects, and tech conversations!
 
+---
+
 * 🔭 Building impactful **InAmigos Foundation projects**
 * 🌱 Leveling up my ** DSA with Java**
 * 💻 Exploring **Frontend Development, UI/UX and Open Source**
 * 💬 Ask me about **Web Development, technology or collaboration**
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: **I turn coding challenges into learning streaks—one commit at a time!**
-
-## ☕ Buy me a Coffee
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arpit005)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-839665301/)
@@ -74,3 +72,11 @@
 ### 🔝 Top Contributed Repositories
 
 ![Top Contributed Repo](https://github.com/Arpit005-dev/Inamigos_Internship_Projects)
+
+---
+
+## ☕ Support My Work
+
+If you find my projects helpful or enjoy my contributions to open source, consider supporting me!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arpit005)

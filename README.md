@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=ARPIT.EXE+%3A%3A+SYSTEM+ONLINE_+%E2%9A%A1"
-    alt="ARPIT.EXE :: SYSTEM ONLINE⚡"
+    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=INITIALIZING+ARPIT.EXE..."
+    alt="INITIALIZING ARPIT.EXE..."
   />
 </p>
 

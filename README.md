@@ -65,7 +65,9 @@
 
 ### ✍️ Random Dev Quote
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600">
+</p>
 
 ### 🔝 Top Contributed Repositories
 

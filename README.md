@@ -66,24 +66,23 @@
 
 ## ⚡ GitHub Stats
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arpit005-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Arpit005-dev?label=Followers&style=flat" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Arpit005-dev&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Arpit005-dev?label=Followers&style=flat&color=BD93F9&labelColor=0D1117" alt="Followers" />
 </p>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-stats-extended.vercel.app/api?username=Arpit005-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        src="https://github-stats-extended.vercel.app/api?username=Arpit005-dev&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
         width="100%"
       />
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=Arpit005-dev&theme=tokyonight&hide_border=true"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=Arpit005-dev&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"
         alt="GitHub Streak"
         width="100%"
       />
@@ -91,8 +90,10 @@
   </tr>
 </table>
 
-
 <br/>
+
+
+
 
 
 ### ✍️ Random Dev Quote

@@ -7,13 +7,20 @@
 📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations, exciting projects, and tech conversations!
 
 ---
-
-* 🔭 Building impactful **InAmigos Foundation projects**
-* 🌱 Leveling up my ** DSA with Java**
-* 💻 Exploring **Frontend Development, UI/UX and Open Source**
-* 💬 Ask me about **Web Development, technology or collaboration**
-* 😄 Pronouns: **He/Him**
-* ⚡ Fun fact: **I turn coding challenges into learning streaks—one commit at a time!**
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td style="padding: 15px;">
+        <p>🔭 Building impactful <b>InAmigos Foundation projects</b></p>
+        <p>🌱 Leveling up my <b>DSA with Java</b></p>
+        <p>💻 Exploring <b>Frontend Development, UI/UX and Open Source</b></p>
+        <p>💬 Ask me about <b>Web Development, technology or collaboration</b></p>
+        <p>😄 Pronouns: <b>He/Him</b></p>
+        <p>⚡ Fun fact: <b>I turn coding challenges into learning streaks—one commit at a time!</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-839665301/)

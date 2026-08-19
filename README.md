@@ -49,7 +49,10 @@
 
 ## 📊 GitHub Stats
 
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpit005-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpit005-dev&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit005-dev&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 <br/>
 

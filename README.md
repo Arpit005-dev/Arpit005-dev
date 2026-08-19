@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=ARPIT.EXE+%3A%3A+SYSTEM+ONLINE_+%E2%9A%A1+%F0%9F%8C%8D"
-    alt="ARPIT.EXE :: SYSTEM ONLINE_⚡"
+    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=ARPIT.EXE+%3A%3A+SYSTEM+ONLINE_+%E2%9A%A1"
+    alt="ARPIT.EXE :: SYSTEM ONLINE_ ⚡"
   />
 </p>
+
 
 
 

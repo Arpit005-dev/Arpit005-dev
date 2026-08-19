@@ -70,4 +70,4 @@
 
 ### 🔝 Top Contributed Repositories
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Arpit005-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github.com/Arpit005-dev/Inamigos_Internship_Projects)

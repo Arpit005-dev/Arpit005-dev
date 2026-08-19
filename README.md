@@ -21,6 +21,9 @@
   </tr>
 </table>
 
+
+
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-839665301/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/Arpit005-dev)
@@ -58,9 +61,36 @@
 
 <br/>
 
-## 🔥 Daily GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arpit005-dev&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+
+## ⚡ GitHub Stats
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arpit005-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Arpit005-dev?label=Followers&style=flat" alt="Followers" />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=Arpit005-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=Arpit005-dev&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <br/>
 

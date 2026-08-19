@@ -61,9 +61,6 @@
 
 <br/>
 
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit005-dev&theme=dark&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 

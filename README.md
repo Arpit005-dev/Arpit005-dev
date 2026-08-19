@@ -49,11 +49,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpit005-dev&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
 
 <br/>
 

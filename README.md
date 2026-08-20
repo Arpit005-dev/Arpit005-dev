@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=190&text=Arpit%20Mishra%20%7C%20Front-End%20Developer&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=2"
+    src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=170&text=Arpit%20Mishra%20%7C%20Front-End%20Developer&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=2"
     width="100%"
   />
 </p>

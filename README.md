@@ -1,5 +1,5 @@
 <p align="center">
-  <b>─── :: SYSTEM INITIALIZED :: ───</b>
+  <b>⚡ :: SYSTEM ONLINE // EXECUTION READY :: ⚡</b>
 </p>
 
 <hr style="border: 1px solid #30363d;" />

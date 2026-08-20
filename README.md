@@ -1,6 +1,11 @@
 <h1 align="center">
   <strong style="color:#00FF41; text-shadow:0 0 8px #00FF41;">
-    Arpit Mishra | Front-End Developer
+    <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=190&text=Arpit%20Mishra%20%7C%20Front-End%20Developer&fontSize=42&fontColor=FFFFFF&fontAlignY=50&stroke=FFFFFF&strokeWidth=2"
+    width="100%"
+  />
+</p>
   </strong>
 </h1> 
 

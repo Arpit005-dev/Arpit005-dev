@@ -1,5 +1,6 @@
 <p align="center">
-  <b>╰─➤ SYSTEM_INITIALIZED :: SYSTEMS_ONLINE :: READY :: 100%</b>
+  <b>╭─╮
+     │ ╰─➤ SYSTEM_INITIALIZED :: SYSTEMS_ONLINE :: READY :: 100%</b>
 </p>
 
 <hr style="border: 1px solid #30363d;" />

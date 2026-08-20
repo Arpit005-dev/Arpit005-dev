@@ -49,10 +49,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-839665301/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/Arpit005-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/11_arpitmishra/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rewaarpit11@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rewaarpit11@gmail.com)   
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>

@@ -1,5 +1,7 @@
 <h1 align="center">
-  <strong>Arpit Mishra | Front-End Developer</strong>
+  <strong style="color:#00FF41; text-shadow:0 0 8px #00FF41;">
+    Arpit Mishra | Front-End Developer
+  </strong>
 </h1>
 
 <h5 align="center">

@@ -1,19 +1,15 @@
-<p align="center">
-  <b>
-    ╰─➤ SYSTEM_INITIALIZED :: SYSTEMS_ONLINE :: READY :: 100%</b>
-</p>
+<h1 align="center">
+  <strong>Arpit Mishra | Front-End Developer</strong>
+</h1>
 
-<hr style="border: 1px solid #30363d;" />
-
-<p align="center">
-  <!-- Dark Mode Banner Only -->
+<h5 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFDD0&center=true&vCenter=true&width=850&lines=ARPIT.exe+%3A%3A+Code+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%96%A5%EF%B8%8F#gh-dark-mode-only"
-      alt="ARPIT.exe :: Code → Deploy → Repeat"
+      src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFDD0&center=true&vCenter=true&width=850&lines=Code+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%96%A5%EF%B8%8F#gh-dark-mode-only"
+      alt="Code → Deploy → Repeat"
     />
   </a>
-</p>
+</h5>
 
 
 

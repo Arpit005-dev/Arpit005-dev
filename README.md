@@ -1,23 +1,16 @@
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=ARPIT.exe+%3A%3A+Code+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%96%A5%EF%B8%8F"
-    />
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=850&lines=ARPIT.exe+%3A%3A+Code+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%96%A5%EF%B8%8F"
-    />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=850&lines=ARPIT.exe+%3A%3A+Code+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%96%A5%EF%B8%8F#gh-light-mode-only"
+    alt="🖥️ ARPIT.exe :: Code → Deploy → Repeat"
+  />
 
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=850&lines=ARPIT.exe+%3A%3A+Code+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%96%A5%EF%B8%8F"
-      alt="🖥️ ARPIT.exe :: Code → Deploy → Repeat"
-    />
-  </picture>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=ARPIT.exe+%3A%3A+Code+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%96%A5%EF%B8%8F#gh-dark-mode-only"
+    alt="🖥️ ARPIT.exe :: Code → Deploy → Repeat"
+  />
+
 </p>
-
-
 
 
 

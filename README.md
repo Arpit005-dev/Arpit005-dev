@@ -57,7 +57,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rewaarpit11@gmail.com)
 
 
-
 ## 💻 Tech Stack:
 
 <p align="left">
@@ -86,6 +85,10 @@
     &nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
     &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: invert(1);"/>
+    &nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
     &nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
@@ -95,7 +98,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
   </span>
 </p>
-
 
 
 

@@ -98,7 +98,7 @@
 
 
 
-## ⚡ GitHub Stats
+## ⚡ GitHub Contribution
 
 <p align="center">
 

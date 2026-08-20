@@ -1,5 +1,5 @@
 <p align="center">
-  <b>◢◤ SYSTEM_INITIALIZED :: 100% ◢◤</b>
+  <b>╰─➤ SYSTEM_INITIALIZED :: 100%</b>
 </p>
 
 <hr style="border: 1px solid #30363d;" />
@@ -183,8 +183,19 @@
 
 ---
 
+
+
 ## ☕ Support My Work
 
 If you find my projects helpful or enjoy my contributions to open source, consider supporting me!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arpit005)
+<p>
+  <a href="https://buymeacoffee.com/arpit005">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      height="50"
+      width="210"
+      alt="Buy Me a Coffee"
+    />
+  </a>
+</p>

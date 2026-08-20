@@ -147,7 +147,9 @@
 
 ### 🔝 Top Contributed Repositories
 
-![Top Contributed Repo](https://github.com/Arpit005-dev/Inamigos_Internship_Projects)
+<a href="https://github.com/Arpit005-dev/Inamigos_Internship_Projects">
+  <b>VIEW REPOSITORY</b>
+</a>
 
 ---
 

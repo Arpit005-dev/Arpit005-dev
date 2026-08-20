@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=161B22&height=110&text=Arpit%20Mishra%20%7C%20Front-End%20Developer&font=Montserrat&fontSize=26&fontColor=F1F5F9&stroke=161B22&strokeWidth=1" width="95%" alt="Arpit Mishra | Front-End Developer"/>
-</p>
+</h1>
 
 
 

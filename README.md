@@ -43,6 +43,10 @@
   </tr>
 </table>
 
+
+
+
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-839665301/)
@@ -50,6 +54,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arpit005-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/11_arpitmishra/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rewaarpit11@gmail.com)
+
+
+
 
 ## 💻 Tech Stack:
 
@@ -75,6 +82,8 @@
 
 
 
+
+
 <!--  
 
 <div align="center">
@@ -83,6 +92,8 @@
 
 
 <br/>    -->
+
+
 
 
 
@@ -124,6 +135,10 @@
 
 
 
+
+
+
+
 ### ✍️ Random Dev Quote
 
 <p align="center">
@@ -135,6 +150,10 @@
 ![Top Contributed Repo](https://github.com/Arpit005-dev/Inamigos_Internship_Projects)
 
 ---
+
+
+
+
 
 
 

@@ -14,7 +14,6 @@
   </a>
 </p>
 
-<hr style="border: 1px solid #30363d;" />
 
 
 ### Hey there! I’m Arpit Mishra 👋

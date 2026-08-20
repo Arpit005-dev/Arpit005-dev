@@ -134,10 +134,6 @@
 
 
 
-
-
-
-
 ## ☕ Support My Work
 
 If you find my projects helpful or enjoy my contributions to open source, consider supporting me!

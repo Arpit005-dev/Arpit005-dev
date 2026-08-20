@@ -101,45 +101,23 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Arpit005-dev&label=Profile%20Views&color=1F6FEB&style=for-the-badge"
-    alt="Profile Views"
-  />
-  <img
-    src="https://img.shields.io/github/followers/Arpit005-dev?label=Followers&style=for-the-badge&color=8957E5&labelColor=161B22"
-    alt="Followers"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Arpit005-dev&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Arpit005-dev?label=Followers&style=for-the-badge&color=8957E5&labelColor=161B22" alt="Followers" />
 </p>
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=Arpit005-dev&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github"
-        alt="GitHub Stats"
-        width="100%"
-      />
+      <img src="https://github-stats-extended.vercel.app/api?username=Arpit005-dev&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=Arpit005-dev&theme=github-dark&hide_border=true"
-        alt="GitHub Streak"
-        width="100%"
-      />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Arpit005-dev&theme=github-dark&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
-
 <br/>
-
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit005-dev&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit005-dev&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
 </p>
-
 <br/>
 
 

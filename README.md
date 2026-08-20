@@ -23,7 +23,7 @@
 📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations, exciting projects, and tech conversations!
 
 ---
-# 📌 About Me
+## 📌 About Me
 
 <table>
   <tr>
@@ -56,7 +56,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rewaarpit11@gmail.com)
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <p align="left">
   <span>
@@ -114,7 +114,7 @@
 
 
 
-## ⚡ GitHub Contribution
+### ⚡ GitHub Contribution
 
 <p align="center">
 
@@ -123,15 +123,13 @@
   <img src="https://img.shields.io/github/followers/Arpit005-dev?label=Followers&style=for-the-badge&color=8957E5&labelColor=161B22&v=2" alt="Followers" />
 
 </p>
+
+
+## 📊 Contribution Graph
+
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit005-dev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Arpit%27s%20Contribution%20Graph"
-    width="95%"
-    alt="Arpit's Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit005-dev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Arpit%27s%20Contribution%20Graph" width="95%" alt="Arpit's Contribution Graph" />
 </p>
-
-
 
 
 ### ✍️ Random Dev Quote

@@ -1,11 +1,10 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rounded&color=050505&height=170&text=Arpit%20Mishra%20%7C%20Front-End%20Developer&font=Montserrat&fontSize=25&fontColor=F8FAFC&fontAlign=50&fontAlignY=50&stroke=00FF41&strokeWidth=2"
+    src="https://capsule-render.vercel.app/api?type=rounded&color=050505&height=170&text=Arpit%20Mishra%20%7C%20Front-End%20Developer&font=Montserrat&fontSize=40&fontColor=FFFAFA&fontAlign=50&fontAlignY=50&stroke=00FF41&strokeWidth=2"
     width="100%"
     alt="Arpit Mishra | Front-End Developer"
   />
 </p>
-
 
 <h5 align="center">
   <a href="https://git.io/typing-svg">

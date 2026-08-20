@@ -25,20 +25,24 @@
 
 ---
 # 📌 About Me
-<table width="100%">
+
+<table>
   <tr>
-    <td width="100%" style="padding: 16px;">
-      <p>🔭 Building impactful <b>InAmigos Foundation projects</b></p>
-      <p>🌱 Leveling up my <b>DSA with Java</b></p>
-      <p>💻 Exploring <b>Frontend Development, UI/UX and Open Source</b></p>
-      <p>💬 Ask me about <b>Web Development, technology or collaboration</b></p>
-      <p>😄 Pronouns: <b>He/Him</b></p>
-      <p>⚡ Fun fact: <b>I turn coding challenges into learning streaks—one commit at a time!</b></p>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🔭 Building impactful <b>InAmigos Foundation projects</b></li>
+        <li>🌱 Leveling up my <b>DSA with Java</b></li>
+        <li>💻 Exploring <b>Frontend Development, UI/UX, and Open Source</b></li>
+        <li>💬 Ask me about <b>Web Development, technology, or collaboration</b></li>
+        <li>😄 Pronouns: <b>He/Him</b></li>
+        <li>⚡ Fun fact: <b>I turn coding challenges into learning streaks—one commit at a time!</b></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="280" alt="Coding Animation">
     </td>
   </tr>
 </table>
-
-
 
 
 ## 🌐 Socials
@@ -47,28 +51,73 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/11_arpitmishra/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rewaarpit11@gmail.com)
 
+
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![REST API](https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+</a>
+
 
 
 

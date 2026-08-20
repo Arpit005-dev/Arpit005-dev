@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFDD0&center=true&vCenter=true&width=850&lines=Code+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%96%A5%EF%B8%8F#gh-dark-mode-only"
-      alt="Code → Deploy → Repeat"
+      alt="Code→ Deploy→ Repeat"
     />
   </a>
 </h5>

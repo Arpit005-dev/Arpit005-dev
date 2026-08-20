@@ -1,16 +1,20 @@
+<p align="center">
+  <b>─── :: SYSTEM INITIALIZED :: ───</b>
+</p>
 
+<hr style="border: 1px solid #30363d;" />
 
-  <!-- Dark Mode Banner (Cream White Text) -->
+<p align="center">
+  <!-- Dark Mode Banner Only -->
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFDD0&center=true&vCenter=true&width=850&lines=ARPIT.exe+%3A%3A+Code+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%96%A5%EF%B8%8F#gh-dark-mode-only"
-      alt="🖥️ ARPIT.exe :: Code → Deploy → Repeat"
+      alt="ARPIT.exe :: Code → Deploy → Repeat"
     />
   </a>
 </p>
 
-
-
+<hr style="border: 1px solid #30363d;" />
 
 
 ### Hey there! I’m Arpit Mishra 👋

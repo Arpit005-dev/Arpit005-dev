@@ -22,7 +22,7 @@
 
 **Frontend Web Developer • AI Web Development Intern at InAmigos Foundation**
 
-📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations, exciting projects, and tech conversations!
+📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations , exciting projects , and tech conversations!
 
 ---
 ## 📌 About Me

@@ -33,7 +33,7 @@
       <ul>
         <li>🔭 Building impactful <b>InAmigos Foundation projects</b></li>
         <li>🌱 Leveling up my <b>DSA with Java</b></li>
-        <li>💻 Exploring <b>Frontend Development, UI/UX, and Open Source</b></li>
+        <li>💻 Learning <b>MERN Stack</b> and building <b>real-world web applications</b></li>
         <li>💬 Ask me about <b>Web Development, technology, or collaboration</b></li>
         <li>😄 Pronouns: <b>He/Him</b></li>
         <li>⚡ Fun fact: <b>I turn coding challenges into learning streaks—one commit at a time!</b></li>

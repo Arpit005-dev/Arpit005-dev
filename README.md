@@ -142,15 +142,16 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600">
 </p>
 
+
 ### 🔝 Top Contributed Repositories
 
 <p align="center">
   <a href="https://github.com/Arpit005-dev/Inamigos_Internship_Projects">
     <img
-      src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"
+      src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=flat&logo=github&logoColor=white&labelColor=0D1117"
       alt="View Repository"
-      width="320"
-      height="60"
+      width="210"
+      height="35"
     />
   </a>
 </p>

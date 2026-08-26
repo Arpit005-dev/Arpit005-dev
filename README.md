@@ -25,11 +25,13 @@
 📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations , exciting projects , and tech conversations!
 
 ---
+---
+
 ## 📌 About Me
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="65%" valign="middle">
       <ul>
         <li>🔭 Building impactful <b>InAmigos Foundation projects</b></li>
         <li>🌱 Leveling up my <b>DSA with Java</b></li>
@@ -40,13 +42,12 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="280" alt="Coding Animation">
+     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+     width="260"
+     alt="Programming Animation">
     </td>
   </tr>
 </table>
-
-
-
 
 
 ## 🌐 Socials

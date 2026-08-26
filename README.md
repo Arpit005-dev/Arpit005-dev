@@ -2,9 +2,9 @@
 
 <h1 align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rounded&color=161B22&height=120&text=Arpit%20Mishra%20%7C%7C%20Frontend%20Web%20Developer&font=Montserrat&fontSize=32&fontWeight=700&fontColor=F1F5F9&stroke=161B22&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=rounded&color=161B22&height=120&text=Arpit%20Mishra%20%7C%7C%20MERN%20Stack%20Developer&font=Montserrat&fontSize=32&fontWeight=700&fontColor=F1F5F9&stroke=161B22&strokeWidth=1"
     width="95%"
-    alt="Arpit Mishra || Frontend Web Developer"
+    alt="Arpit Mishra || MERN Stack Developer"
   />
 </h1>
 
@@ -20,11 +20,11 @@
 </p>
 
 <p align="center">
-  <b>Frontend Web Developer</b>
+  <b>Frontend Web Developer • AI Web Development Intern at InAmigos Foundation</b>
 </p>
 
 <p align="center">
-  📫
+  📫 Let's connect:
   <a href="mailto:Rewaarpit11@gmail.com">
     Rewaarpit11@gmail.com
   </a>
@@ -35,47 +35,27 @@
 
 ## 📌 About Me
 
-<table width="100%">
+<table>
   <tr>
-
-    <!-- ================= LEFT SIDE ================= -->
 
     <td width="65%" valign="top">
 
-      <h3>👋 Hey! I'm Arpit Mishra</h3>
-
-      <p>
-        I'm a <b>Frontend Web Developer</b> passionate about building
-        modern, responsive and user-friendly web applications.
-      </p>
+      <h3>👋 About Me</h3>
 
       <ul>
-        <li>🔭 Building impactful <b>web projects</b></li>
-
+        <li>🔭 Building impactful <b>InAmigos Foundation projects</b></li>
         <li>🌱 Leveling up my <b>DSA with Java</b></li>
-
-        <li>💻 Learning <b>MERN Stack</b> and building
-        <b>real-world web applications</b></li>
-
-        <li>💬 Ask me about
-        <b>Web Development, technology, or collaboration</b></li>
-
+        <li>💻 Learning <b>MERN Stack</b> and building <b>real-world web applications</b></li>
+        <li>💬 Ask me about <b>Web Development, technology, or collaboration</b></li>
         <li>😄 Pronouns: <b>He/Him</b></li>
-
-        <li>⚡ Fun fact:
-        <b>I turn coding challenges into learning streaks —
-        one commit at a time!</b></li>
+        <li>⚡ Fun fact: <b>I turn coding challenges into learning streaks — one commit at a time!</b></li>
       </ul>
 
       <br>
 
-      <!-- ================= SOCIALS ================= -->
-
       <h3>🌐 Connect With Me</h3>
 
       <p>
-
-        <!-- Instagram -->
         <a href="https://www.instagram.com/" target="_blank">
           <img
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -83,46 +63,34 @@
           />
         </a>
 
-        <!-- LinkedIn -->
-        <a
-          href="https://www.linkedin.com/in/arpit-mishra-839665301/"
-          target="_blank"
-        >
+        <a href="https://www.linkedin.com/in/arpit-mishra-839665301/" target="_blank">
           <img
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn"
           />
         </a>
 
-        <!-- GitHub -->
-        <a
-          href="https://github.com/Arpit005-dev"
-          target="_blank"
-        >
+        <a href="https://github.com/Arpit005-dev" target="_blank">
           <img
             src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"
             alt="GitHub"
           />
         </a>
 
-        <!-- Gmail -->
         <a href="mailto:Rewaarpit11@gmail.com">
           <img
             src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
             alt="Gmail"
           />
         </a>
-
       </p>
 
     </td>
 
-    <!-- ================= RIGHT SIDE ================= -->
-
     <td width="35%" align="center" valign="middle">
 
       <img
-        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+        src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
         width="280"
         alt="Coding Animation"
       />
@@ -138,110 +106,39 @@
 
 <p align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-    width="40"
-    height="40"
-    alt="C"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    width="40"
-    height="40"
-    alt="Java"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    width="40"
-    height="40"
-    alt="HTML5"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    width="40"
-    height="40"
-    alt="CSS3"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    width="40"
-    height="40"
-    alt="JavaScript"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    width="40"
-    height="40"
-    alt="TypeScript"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-    width="40"
-    height="40"
-    alt="React"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-    width="40"
-    height="40"
-    alt="Node.js"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-    width="40"
-    height="40"
-    alt="Express"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-    width="40"
-    height="40"
-    alt="MySQL"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-    width="40"
-    height="40"
-    alt="MongoDB"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-    width="40"
-    height="40"
-    alt="Git"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    width="40"
-    height="40"
-    alt="GitHub"
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"
-    width="40"
-    height="40"
-    alt="Vercel"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg"
-    width="40"
-    height="40"
-    alt="Netlify"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
 
 </p>
 
@@ -279,13 +176,13 @@
 
 ---
 
-## 🔝 Top Contributed Repository
+## 🔝 Top Contributed Repositories
 
 <p align="center">
 
   <a href="https://github.com/Arpit005-dev/Inamigos_Internship_Projects">
     <img
-      src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white"
       alt="View Repository"
     />
   </a>
@@ -303,14 +200,12 @@
 
 <p align="center">
 
-  <a
-    href="https://buymeacoffee.com/arpit005"
-    target="_blank"
-  >
+  <a href="https://buymeacoffee.com/arpit005" target="_blank">
     <img
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      alt="Buy Me A Coffee"
-      width="220"
+      height="50"
+      width="210"
+      alt="Buy Me a Coffee"
     />
   </a>
 

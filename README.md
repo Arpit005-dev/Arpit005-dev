@@ -4,9 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=161B22&height=120&text=Arpit%20Mishra%20%7C%7C%20MERN%20Stack%20Developer&font=Montserrat&fontSize=32&fontWeight=700&fontColor=F1F5F9&stroke=161B22&strokeWidth=1" width="95%" alt="Arpit Mishra || MERN Stack Developer"/>
 </h1>
 
-
-
-
 <h5 align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -16,8 +13,6 @@
   </a>
 </h5>
 
-
-
 ### Hey there! I’m Arpit Mishra 👋
 
 **Frontend Web Developer • AI Web Development Intern at InAmigos Foundation**
@@ -25,6 +20,7 @@
 📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations , exciting projects , and tech conversations!
 
 ---
+
 ## 📌 About Me
 
 <table>
@@ -39,15 +35,12 @@
         <li>⚡ Fun fact: <b>I turn coding challenges into learning streaks—one commit at a time!</b></li>
       </ul>
     </td>
+
     <td width="35%" align="center" valign="middle">
       <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="280" alt="Coding Animation">
     </td>
   </tr>
 </table>
-
-
-
-
 
 ## 🌐 Socials
 
@@ -56,10 +49,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arpit005-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/11_arpitmishra/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rewaarpit11@gmail.com)
-
-
-
-
 
 ## 💻 Tech Stack
 
@@ -101,22 +90,13 @@
   </span>
 </p>
 
-
-
-
-<!--  
-
+<!--
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
-<br/>    -->
-
-
-
-
-
+<br/>
+-->
 
 ### ⚡ GitHub Contribution
 
@@ -128,13 +108,15 @@
 
 </p>
 
-
-## 📊 Contribution Graph
+## 📊 Daily Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit005-dev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Arpit%27s%20Contribution%20Graph" width="95%" alt="Arpit's Contribution Graph" />
+  <img
+    src="./assets/contribution-graph.svg"
+    width="95%"
+    alt="Arpit Mishra Daily GitHub Contribution Graph"
+  />
 </p>
-
 
 ### ✍️ Random Dev Quote
 
@@ -150,8 +132,6 @@
 
 ---
 
-
-
 ## ☕ Support My Work
 
 If you find my projects helpful or enjoy my contributions to open source, consider supporting me!
@@ -166,7 +146,6 @@ If you find my projects helpful or enjoy my contributions to open source, consid
     />
   </a>
 </p>
-
 
 
 

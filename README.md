@@ -63,7 +63,7 @@
     </td>
   </tr>
 </table>
----
+
 
 ## 🌐 Socials
 
@@ -125,7 +125,7 @@
 
 
 
-### ⚡ GitHub Contribution
+## ⚡ GitHub Contribution
 
 <p align="center">
 
@@ -151,14 +151,14 @@
 </p>     -->
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600">
 </p>
 
-
-### 🔝 Top Contributed Repositories
+---
+## 🔝 Top Contributed Repositories
 
 <p align="center">
   <a href="https://github.com/Arpit005-dev/Inamigos_Internship_Projects">
@@ -170,12 +170,12 @@
     />
   </a>
 </p>
+
+
+
+
+
 ---
-
-
-
-
-
 ## ☕ Support My Work
 
 If you find my projects helpful or enjoy my contributions to open source, consider supporting me!

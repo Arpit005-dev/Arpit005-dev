@@ -120,11 +120,6 @@
 
 
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/219138/Arpit005-dev" alt="Arpit005-dev's GitHub Contribution Graph" />
-</div>
-<br/>
-
 
 
 

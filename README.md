@@ -129,8 +129,9 @@
 
 <p align="center">
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Arpit005-dev&label=Profile%20Views&color=00FF41&style=for-the-badge&labelColor=161B22" alt="Profile Views" />
+<!-- Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=Arpit005-dev&label=Profile%20Views&color=B71C1C&style=for-the-badge&labelColor=263238" alt="Profile Views" />
+
 
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/Arpit005-dev?label=Followers&style=for-the-badge&color=8957E5&labelColor=161B22" alt="Followers" />

@@ -57,8 +57,8 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
-     width="260"
+     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+     width="400"
      alt="Programming Animation">
     </td>
   </tr>
@@ -138,9 +138,17 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Arpit005-dev&label=Profile%20Views&color=1F6FEB&style=for-the-badge&v=2" alt="Profile Views" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Arpit005-dev&label=Profile%20Views&color=00FF41&style=for-the-badge&labelColor=161B22" alt="Profile Views" />
 
-  <img src="https://img.shields.io/github/followers/Arpit005-dev?label=Followers&style=for-the-badge&color=8957E5&labelColor=161B22&v=2" alt="Followers" />
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/Arpit005-dev?label=Followers&style=for-the-badge&color=8957E5&labelColor=161B22" alt="Followers" />
+
+  <!-- Following -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FArpit005-dev&query=%24.following&label=Following&style=for-the-badge&color=8957E5&labelColor=161B22" alt="Following" />
+
+  <!-- Repositories -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FArpit005-dev&query=%24.public_repos&label=Repositories&style=for-the-badge&color=1F6FEB&labelColor=161B22" alt="Repositories" />
 
 </p>
 
@@ -172,6 +180,8 @@
   </a>
 </p>
 ---
+
+
 
 
 

@@ -63,7 +63,7 @@
     </td>
   </tr>
 </table>
-
+---
 
 ## 🌐 Socials
 
@@ -73,7 +73,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/11_arpitmishra/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rewaarpit11@gmail.com)
 
-
+---
 
 
 
@@ -117,7 +117,7 @@
   </span>
 </p>
 
-
+---
 
 
 
@@ -143,7 +143,7 @@
 
 </p>
 
-
+---
 <!--## 📊 Contribution Graph
 
 <p align="center">

@@ -1,4 +1,5 @@
-<!-- ⚠️ WARNING: Please use your own code. Do not copy someone else's code without permission or proper attribution. -->
+<!-- ⚠️ NOTICE: This is original work by Arpit005-dev. Please do not copy, redistribute, or reuse this code without permission or proper attribution. -->
+
 
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=161B22&height=120&text=Arpit%20Mishra%20%7C%7C%20MERN%20Stack%20Developer&font=Montserrat&fontSize=32&fontWeight=700&fontColor=F1F5F9&stroke=161B22&strokeWidth=1" width="95%" alt="Arpit Mishra || MERN Stack Developer"/>

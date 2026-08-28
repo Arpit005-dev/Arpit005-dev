@@ -57,7 +57,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
      width="400"
      alt="Programming Animation">
     </td>

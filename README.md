@@ -10,7 +10,7 @@
 ║ or reuse of this original work, in whole or in substantial part,     ║
 ║ is not permitted without prior permission or proper attribution.     ║
 ║                                                                      ║
-║ GitHub: https://github.com/Arpit005-dev                              ║
+║ GitHub:- https://github.com/Arpit005-dev                              ║
 ╚══════════════════════════════════════════════════════════════════════╝
 -->
 

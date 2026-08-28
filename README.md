@@ -40,7 +40,7 @@
 📫 **Let’s connect:** [Rewaarpit11@gmail.com](mailto:Rewaarpit11@gmail.com) — open to collaborations , exciting projects , and tech conversations!
 
 ---
----
+
 
 ## 📌 About Me
 
@@ -120,14 +120,10 @@
 
 
 
-<!--  
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://ghchart.rshah.org/219138/Arpit005-dev" alt="Arpit005-dev's GitHub Contribution Graph" />
 </div>
-
-
-<br/>    -->
+<br/>
 
 
 

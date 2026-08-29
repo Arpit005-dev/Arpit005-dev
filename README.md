@@ -56,11 +56,14 @@
         <li>⚡ Fun fact: <b>I turn coding challenges into learning streaks—one commit at a time!</b></li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
-     width="400"
-     alt="Programming Animation">
-    </td>
+<td width="30%" align="center" valign="middle">
+  <img 
+    src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+    width="290"
+    style=border-radius: 25px;
+    alt="Programming Animation"
+  >
+</td>
   </tr>
 </table>
 

@@ -4,7 +4,7 @@
 ║              ARPIT MISHRA — ALL RIGHTS RESERVED                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║ This README and its original content are the intellectual property   ║
-║ of Arpit Mishra (@Arpit005-dev).                                     ║
+║ of Arpit Mishra (Github - @Arpit005-dev).                                     ║
 ║                                                                      ║
 ║ Unauthorized copying, reproduction, redistribution, modification,    ║
 ║ or reuse of this original work, in whole or in substantial part,     ║
